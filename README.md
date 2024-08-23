@@ -1,0 +1,2 @@
+# Power_and_Current_Limiting_Strategy_for_Grid-Connected_Distributed_Generation_Systems
+Power and Current Limiting Strategy based on modified droop control strategy for Grid-Connected Distributed Generation Systems
